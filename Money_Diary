@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T05:52:12.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1-_Ab-Yz3Gahvl6ftV3V" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T05:54:06.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YY9r1pOk5XW_R_TJgb41" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,20 @@
             <mxPoint x="320" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VVU55qfenFP49MfKJZLw-1" target="VVU55qfenFP49MfKJZLw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVU55qfenFP49MfKJZLw-1" value="パスワード及びeメールアドレスを使用し、ログイン" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="90" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VVU55qfenFP49MfKJZLw-3" target="VVU55qfenFP49MfKJZLw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-3" value="Passwordを忘れた" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-5" value="emailアドレスで新規のパスワードを送付" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
