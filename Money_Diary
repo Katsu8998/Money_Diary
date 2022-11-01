@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T05:58:29.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oi2-wNKyJHIFbjp0gwfl" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T06:00:15.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CwBNuTp0d8kyBSH__b9P" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,20 @@
         <mxCell id="VVU55qfenFP49MfKJZLw-21" value="当月の目標出費額を&lt;br&gt;設定" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VVU55qfenFP49MfKJZLw-23" target="VVU55qfenFP49MfKJZLw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VVU55qfenFP49MfKJZLw-23" value="消費カテゴリーを&lt;br&gt;設定" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VVU55qfenFP49MfKJZLw-26" target="VVU55qfenFP49MfKJZLw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-26" value="商品購入後、&lt;br&gt;サービスにパスワード及びemailを使用しログイン" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVU55qfenFP49MfKJZLw-28" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
