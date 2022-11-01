@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T06:00:15.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CwBNuTp0d8kyBSH__b9P" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T06:00:49.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pA1KaonbYBzfiR7UULbg" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="VVU55qfenFP49MfKJZLw-26" value="商品購入後、&lt;br&gt;サービスにパスワード及びemailを使用しログイン" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VVU55qfenFP49MfKJZLw-28" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VVU55qfenFP49MfKJZLw-28" value="出費金額、消費カテゴリー、購入日を記録" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
